@@ -125,9 +125,9 @@ textarea {
 }
 
 .erro {
-    border: 1px solid red;
+    border: 3px solid #ff0000;
 }
 
 .valido {
-    border: 1px solid green;
+    border: 3px solid #00913f;
 }
